@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{F0D70BE7-7CA0-4C41-8F9C-A9082273D7FD}">
+	<children>
+		<child name="GitGitGit" key="{3C5DBBA5-31AC-4AA8-B12D-93CC53774E36}" path="GitGitGit\GitGitGit.mds" />
+	</children>
+	<testItems key="{0D59E605-A332-4CDA-8EDD-521EF4A45B83}">
+		<children>
+			<testItem key="{3C5DBBA5-31AC-4AA8-B12D-93CC53774E36}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{B6675616-2BF6-497C-A9D9-9D2E61195FA1}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{66B47544-5E25-4172-9995-422D2614E8D4}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="True" />
+	</extender>
+</Root>
